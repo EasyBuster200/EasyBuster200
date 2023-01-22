@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EasyBuster200
 - 👀 I’m interested in technology in general, but have more knowledge on computers and coding
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on game and app development mostly, but would love to help in any kind of project to build up my knowledge.
 
 <!---
